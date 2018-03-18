@@ -1,4 +1,4 @@
-<img src="https://cdn.tutsplus.com/net/uploads/2013/12/threejs-webgl-retina-preview.jpg" width="100">
+
 
 <img src="https://discourse.threejs.org/uploads/threejs/original/1X/020b4bf5260882fa7b29b4aba7c3ff2c8e46aad0.png" width="100">
 
@@ -15,6 +15,8 @@ Questions:
 <br>
 
 - Probelm Solved:
+
+<img src="https://cdn.tutsplus.com/net/uploads/2013/12/threejs-webgl-retina-preview.jpg" width="100">
 
 Three.js is an open sourced Javascript Library created by for drawing 3d graphics on the web. Originally it was created as a renderer agnostic API so it had a 2d canvas and SVG renderer in the beginning. Then WebGL as became available it was added to it. This helped the popularity of both three.js and WebGL because it made it more accessible to developers.
 
