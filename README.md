@@ -1,7 +1,4 @@
-
-
-<img src="d" />
-<img src="" />
+<img src="https://vuejs.org/images/logo.png" width="100">
 
 # Lightning Talk Topic: Three.js
 
