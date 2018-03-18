@@ -9,10 +9,11 @@ Questions:
 - How do you use it? (Is there a "cheatsheet" you found or made that others can reference?)
 - What did you build?
 
-- Probelm Solved:
-Three.js is an open sourced Javascript Library created by for drawing 3d graphics on the web.
+<br>
 
-Originally it was created as a renderer agnostic API so it had a 2d canvas and SVG renderer in the beginning. Then WebGL as became available it was added to it. This helped the popularity of both three.js and WebGL because it made it more accessible to developers.
+- Probelm Solved:
+
+Three.js is an open sourced Javascript Library created by for drawing 3d graphics on the web. Originally it was created as a renderer agnostic API so it had a 2d canvas and SVG renderer in the beginning. Then WebGL as became available it was added to it. This helped the popularity of both three.js and WebGL because it made it more accessible to developers.
 
 
 - Here's how I used it:
@@ -28,20 +29,7 @@ Probably the most important thing that they have on here is their examples becau
 A great way to learn this is to go through the examples and the source code and looking at how people create different effects and playing around with them. 
 
 
-- I built a rotating cube
-
-
-
-
-## Sources:
-
-
-**Resources**
-- [ ] Three.js - https://threejs.org/
-- [ ] Ricardo Cabello - http://ricardocabello.com/
-- [ ] WebGL - https://www.khronos.org/webgl/
-- [ ] WebVR - https://webvr.info/
-
+##Demo of what I built using three.js
 
 Before You Start:
 In order to use Three.js, you need to reference its latest version in your HTML document.
@@ -206,7 +194,14 @@ render();
 ```
 
 Conclusion:
-Now you can see a properly animating 3D cube in your browser. Watch the live demo of above code. You can play around with it to better understand how it works.
 
-As you can see, this amazing JavaScript library doesn’t require you to be a highly-skilled JS developer. Anyone who has the basic working knowledge JavaScript can get started with it in minutes.
+If you open up your index.html in your web browser, you will see the rotating cube in effect. By following the documentation online, I was able to build my first rotating cube using three.js! :D
 
+## Sources:
+
+
+**Resources**
+- [ ] Three.js - https://threejs.org/
+- [ ] Ricardo Cabello - http://ricardocabello.com/
+- [ ] WebGL - https://www.khronos.org/webgl/
+- [ ] WebVR - https://webvr.info/
