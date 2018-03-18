@@ -1,5 +1,8 @@
 <img src="https://vuejs.org/images/logo.png" width="100">
 
+<img src="https://discourse.threejs.org/uploads/threejs/original/1X/020b4bf5260882fa7b29b4aba7c3ff2c8e46aad0.png" width="100">
+
+
 # Lightning Talk Topic: Three.js
 
 <a> https://docs.google.com/presentation/d/1R-9t3ssWW_zU580zUxHVcHSLYyRq1xk7FTqxbSuRQ8w/edit?usp=sharing </a>
