@@ -1,4 +1,4 @@
-<img src="https://vuejs.org/images/logo.png" width="100">
+<img src="https://cdn.tutsplus.com/net/uploads/2013/12/threejs-webgl-retina-preview.jpg" width="100">
 
 <img src="https://discourse.threejs.org/uploads/threejs/original/1X/020b4bf5260882fa7b29b4aba7c3ff2c8e46aad0.png" width="100">
 
