@@ -1,6 +1,6 @@
 
 
-<img src="https://three.js.png" alt="cog" width="50px;" />
+<img src="http://newsroom.tools/tool/58136d239650765f91df7bba alt="cog" width="50px;" />
 
 # Lightning Talk Topic: Three.js
 
